@@ -52,3 +52,5 @@ ______________________
 Steven N. Santos  
 Founder, Oud Certification Institute (conceptual phase)  
 Date: October 31 2025
+
+Permanent Link: https://github.com/programmerstevie/oud-certification-institute
